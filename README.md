@@ -1,3 +1,3 @@
 # practice_projects
 
-Practice learning projects.
+Projects for programming practice
